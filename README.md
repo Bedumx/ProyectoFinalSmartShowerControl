@@ -2,8 +2,11 @@
 
 Team members:
 Brandon Alejandro Bernal Torres, A01383238, A01383238@itesm.mx
+
 Samuel Velázquez Escobedo, A01383143, A01383143@itesm.mx
+
 Julio César Barrientos Reyes, A01383213, A01383213@itesm.mx
+
 Juan Alberto López Romo, A01383231, A01383231@itesm.mx
 
 
